@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on NowroozM</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://nowroozm.github.io/posts/</link>
     <description>Recent content in Posts on NowroozM</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Apr 2025 11:26:38 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nowroozm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome</title>
-      <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Thu, 24 Apr 2025 11:26:38 +0100</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
-      <description></description>
+      <title></title>
+      <link>https://nowroozm.github.io/posts/welcome/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nowroozm.github.io/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;builder-design-pattern-in-go&#34;&gt;Builder Design Pattern in Go&lt;/h1&gt;
+&lt;h2 id=&#34;tldr--quick-overview&#34;&gt;TL;DR – Quick Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Builder Goal&lt;/strong&gt;: Separate the &lt;strong&gt;construction&lt;/strong&gt; of a complex object from its &lt;strong&gt;representation&lt;/strong&gt; to create different representations (or variations) step-by-step.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Idea&lt;/strong&gt;: Provide a &lt;strong&gt;fluent interface&lt;/strong&gt; and &lt;strong&gt;incremental steps&lt;/strong&gt; to build an object piece by piece.&lt;/li&gt;
+&lt;li&gt;**When
+Github&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

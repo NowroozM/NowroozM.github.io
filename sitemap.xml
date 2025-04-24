@@ -2,17 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-24T11:26:38+01:00</lastmod>
+    <loc>https://nowroozm.github.io/posts/welcome/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-24T11:26:38+01:00</lastmod>
+    <loc>https://nowroozm.github.io/tags/builder/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/welcome/</loc>
-    <lastmod>2025-04-24T11:26:38+01:00</lastmod>
+    <loc>https://nowroozm.github.io/tags/creational_patterns/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://nowroozm.github.io/tags/design_pattern/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://nowroozm.github.io/tags/golang/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nowroozm.github.io/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nowroozm.github.io/posts/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nowroozm.github.io/tags/software_engineer/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nowroozm.github.io/tags/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nowroozm.github.io/categories/</loc>
   </url>
 </urlset>
