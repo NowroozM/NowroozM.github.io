@@ -1,47 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on NowroozM</title>
-    <link>https://nowroozm.github.io/tags/</link>
-    <description>Recent content in Tags on NowroozM</description>
+    <title>Tags on Maryam Nowroozi</title>
+    <link>https://maryam-nowroozi.github.io/tags/</link>
+    <description>Recent content in Tags on Maryam Nowroozi</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nowroozm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Builder</title>
-      <link>https://nowroozm.github.io/tags/builder/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nowroozm.github.io/tags/builder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Creational_patterns</title>
-      <link>https://nowroozm.github.io/tags/creational_patterns/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nowroozm.github.io/tags/creational_patterns/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Design_pattern</title>
-      <link>https://nowroozm.github.io/tags/design_pattern/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nowroozm.github.io/tags/design_pattern/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golang</title>
-      <link>https://nowroozm.github.io/tags/golang/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nowroozm.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software_engineer</title>
-      <link>https://nowroozm.github.io/tags/software_engineer/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nowroozm.github.io/tags/software_engineer/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://maryam-nowroozi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
